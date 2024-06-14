@@ -1,1 +1,2 @@
-# C-study
+# CS_Labs_2024
+University labs in C#
